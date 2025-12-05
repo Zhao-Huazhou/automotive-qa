@@ -4,8 +4,8 @@
 
 汽车大师是一款通过在线咨询问答为车主解决用车问题的APP，致力于做车主身边靠谱的用车顾问，车主通过语音、文字或图片发布汽车问题，系统为其匹配专业技师并提供及时有效的咨询服务。
 
-- **训练集（82.9K 条）**：[AutoMaster_TrainSet.csv](./AutoMaster_TrainSet.csv)
-- **测试集（20K 条）**：[AutoMaster_TestSet.csv](./AutoMaster_TestSet.csv)
+- **训练集（82.9K 条）**：[AutoMaster_TrainSet.csv](./Data/AutoMaster_TrainSet.csv)
+- **测试集（20K 条）**：[AutoMaster_TestSet.csv](./Data/AutoMaster_TestSet.csv)
 
 ## 真实车主问答数据集 v1.0
 
