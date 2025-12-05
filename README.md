@@ -1,2 +1,16 @@
-# automotive-qa
-Automotive Q&A From Car Owners
+## 数据源
+
+原始数据来自[百度汽车大师问答模型赛](https://aistudio.baidu.com/competition/detail/814/0/introduction)，共计 **10.3 万条**由汽车大师 APP 提供的车主与技师多轮真实问答数据。
+
+汽车大师是一款通过在线咨询问答为车主解决用车问题的APP，致力于做车主身边靠谱的用车顾问，车主通过语音、文字或图片发布汽车问题，系统为其匹配专业技师并提供及时有效的咨询服务。
+
+- **训练集（82.9K 条）**：[AutoMaster_TrainSet.csv](./AutoMaster_TrainSet.csv)
+- **测试集（20K 条）**：[AutoMaster_TestSet.csv](./AutoMaster_TestSet.csv)
+
+## 真实车主问答数据集 v1.0
+
+本数据集旨在基于原始多轮问答数据，通过**人工筛选与总结**提炼出一批更贴近真实车主使用场景、表达自然、问题明确的高质量问答。
+
+该数据集可直接用于大语言模型（LLM）的微调训练，提升模型在车主体验类场景下的回答质量。
+
+- **数据集（150+ 条）**：[真实车主问答数据集v1.0.xlsx](./真实车主问答数据集v1.0.xlsx)
