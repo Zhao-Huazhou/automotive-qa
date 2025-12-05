@@ -2,7 +2,7 @@
 
 原始数据来自[百度汽车大师问答模型赛](https://aistudio.baidu.com/competition/detail/814/0/introduction)，共计 **10.3 万条**由汽车大师 APP 提供的车主与技师多轮真实问答数据。
 
-汽车大师是一款通过在线咨询问答为车主解决用车问题的APP，致力于做车主身边靠谱的用车顾问，车主通过语音、文字或图片发布汽车问题，系统为其匹配专业技师并提供及时有效的咨询服务。
+汽车大师是一款通过在线咨询问答为车主解决用车问题的 APP，致力于做车主身边靠谱的用车顾问，车主通过语音、文字或图片发布汽车问题，系统为其匹配专业技师并提供及时有效的咨询服务。
 
 - **训练集（82.9K 条）**：[AutoMaster_TrainSet.csv](./Data/AutoMaster_TrainSet.csv)
 - **测试集（20K 条）**：[AutoMaster_TestSet.csv](./Data/AutoMaster_TestSet.csv)
